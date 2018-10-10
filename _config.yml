@@ -22,8 +22,7 @@ url: "http://weareoranger.org/"
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
